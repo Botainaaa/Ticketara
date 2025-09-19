@@ -1,1 +1,1 @@
-# Welcome to your Lovable project
+# Welcome to my selling tickets project
